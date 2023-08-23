@@ -94,6 +94,8 @@ _Profit Margin_ =[Profit]/[Revenue].
 
   - It's observed in the chart that Biro performed excellently financially in term of profit, revenue and profit margin generated foolowed by A4 Paper and Pencil.
 
+  - **You can interact with the dashboard Here** ()
+
 ## Conclusion: 
 1.On the dashboard, it's observed in 2014 that; 
 - Total revenue generated = $94.28M.
