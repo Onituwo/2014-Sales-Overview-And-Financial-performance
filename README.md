@@ -67,7 +67,7 @@ _Profit Margin_ =[Profit]/[Revenue].
 
 ## 1. Report overview; 
 
-![](Caption4.PNG)
+![](Capture4.PNG)
 
 
 ### From the dashboard its observed that in 2014;
