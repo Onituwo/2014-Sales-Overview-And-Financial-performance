@@ -78,19 +78,19 @@ _Profit Margin_ =[Profit]/[Revenue].
 
  ## 2. Sales Proportion;
  
-   ![](Caption1.PNG)
+   ![](Capture1.PNG)
 
    - In 2014 Biro has the highest sales proportion which is (29.73%).
 
 ## 3. Profit Margin;
 
-   ![](Caption2.PNG)
+   ![](Capture2.PNG)
 
    - Biro also remitted the highest profit margin in 2014.
 
  ## 4. Financial Performance By Products;
 
-  ![](Caption3.PNG)
+  ![](Capture3.PNG)
 
   - It's observed in the chart that Biro performed excellently financially in term of profit, revenue and profit margin generated foolowed by A4 Paper and Pencil.
 
