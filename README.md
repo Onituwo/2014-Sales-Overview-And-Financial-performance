@@ -1,5 +1,5 @@
 # 2014-Sales-Overview-And-Financial-performance
-This essence of this project is to show-case my Data Cleaning and Visualization skills using Power BI.
+The essence of this project is to show-case my Data Cleaning and Visualization skills using Power BI.
 
 ## Introduction 
 I came across this Dataset online and i admired how rich the Data is. I have been getting my hands dirty with some very rich Datasets to practice my analyses, Data cleaning and visualization skills.This project is meant to analyse, derive reasonable and meaningful insights on how crucial analytical questions can be answered and further help the store to make data driven decisions.
